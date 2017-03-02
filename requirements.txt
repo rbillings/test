@@ -1,4 +1,6 @@
 bidpom
+mozdownload==1.21
+mozInstall==1.12
 PyPOM
 pytest~=3.0.0
 pytest-selenium
